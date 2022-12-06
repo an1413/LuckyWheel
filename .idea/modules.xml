@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LuckyWheel_Android-master.iml" filepath="$PROJECT_DIR$/.idea/modules/LuckyWheel_Android-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel_Android-master.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel_Android-master.luckywheel.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LuckyWheel.iml" filepath="$PROJECT_DIR$/.idea/modules/LuckyWheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyWheel.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/LuckyWheel.luckywheel.unitTest.iml" />
     </modules>
   </component>
 </project>
